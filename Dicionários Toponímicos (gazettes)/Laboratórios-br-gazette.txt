@@ -1,0 +1,326 @@
+LAB	abbot
+LAB	abl
+LAB	accord
+LAB	aché
+LAB	alcon
+LAB	allergan
+LAB	apsen
+LAB	ariston
+LAB	arrow
+LAB	aspen	pharma
+LAB	astrazeneca
+LAB	ativus
+LAB	aurobindo
+LAB	bagó
+LAB	baldacci
+LAB	bausch & lomb
+LAB	baxter
+LAB	bayer
+LAB	b.braun
+LAB	beker
+LAB	bergamo
+LAB	bioLAB	sanus
+LAB	biosintética
+LAB	blausiegel
+LAB	boehringer ingelheim
+LAB	brainfarma
+LAB	brasterápica
+LAB	bristol-myers-squibb
+LAB	bms
+LAB	bunker
+LAB	catarinense
+LAB	cazi
+LAB	chiesi
+LAB	cifarma
+LAB	cimed
+LAB	claris
+LAB	cristália
+LAB	csl behring
+LAB	daiichi	sankyo
+LAB	darrow
+LAB	daudt
+LAB	ducto
+LAB	eli lilly
+LAB	ems
+LAB	eurofarma
+LAB	farmoquímica
+LAB	fmq
+LAB	ferring
+LAB	fresenius kabi
+LAB	fresenius
+LAB	furp
+LAB	galderma
+LAB	germed
+LAB	glaxosmithkline
+LAB	gsk
+LAB	glenmark
+LAB	greenpharma
+LAB	gross
+LAB	heel do brasil biomédica
+LAB	hipoLABor
+LAB	hypermarcas
+LAB	hypm
+LAB	janssen-cilag
+LAB	johnson	& johnson
+LAB	legrand
+LAB	libbs
+LAB	lilly
+LAB	lundbeck
+LAB	luper
+LAB	mantecorp
+LAB	marjan
+LAB	mead-johnson nutrition
+LAB	medecell brasil
+LAB	medley
+LAB	merck
+LAB	merck, sharp & dohme
+LAB	msd
+LAB	millet roux
+LAB	neoquímica
+LAB	nikkho
+LAB	nova química
+LAB	novartis
+LAB	novo	nordisk
+LAB	nycomed
+LAB	pfizer
+LAB	pharLAB
+LAB	prati,	donaduzzi
+LAB	procter	&	gamble
+LAB	ranbaxy
+LAB	roche
+LAB	royton
+LAB	sandoz
+LAB	sanofi-aventis
+LAB	sanofi	pasteur
+LAB	schering-plough
+LAB	servier
+LAB	sigma	pharma
+LAB	solvay
+LAB	stiefel
+LAB	takeda
+LAB	teuto
+LAB	theraskin
+LAB	torrent
+LAB	trb	pharma
+LAB	uci	farma
+LAB	união	química
+LAB	valeant
+LAB	wyeth	pharma
+LAB	zambon
+LAB	zodiac
+LAB	zurita
+LAB	zydus
+LAB	ABBOT
+LAB	ABL
+LAB	ACCORD
+LAB	ACHÉ
+LAB	ALCON
+LAB	ALLERGAN
+LAB	APSEN
+LAB	ARISTON
+LAB	ARROW
+LAB	ASPEN	PHARMA
+LAB	ASTRAZENECA
+LAB	ATIVUS
+LAB	AUROBINDO
+LAB	BAGÓ
+LAB	BALDACCI
+LAB	BAUSCH	&	LOMB
+LAB	BAXTER
+LAB	BAYER
+LAB	B.	BRAUN
+LAB	BEKER
+LAB	BERGAMO
+LAB	BIOLAB	SANUS
+LAB	BIOSINTÉTICA
+LAB	BLAUSIEGEL
+LAB	BOEHRINGER	INGELHEIM
+LAB	BRAINFARMA
+LAB	BRASTERÁPICA
+LAB	BRISTOL-MYERS-SQUIBB
+LAB	BUNKER
+LAB	CATARINENSE
+LAB	CAZI
+LAB	CHIESI
+LAB	CIFARMA
+LAB	CIMED
+LAB	CLARIS
+LAB	CRISTÁLIA
+LAB	CSL	BEHRING
+LAB	DAIICHI	SANKYO
+LAB	DARROW
+LAB	DAUDT
+LAB	DUCTO
+LAB	ELI	LILLY
+LAB	EMS
+LAB	EUROFARMA
+LAB	FARMOQUÍMICA
+LAB	FERRING
+LAB	FRESENIUS	KABI
+LAB	FRESENIUS
+LAB	FURP
+LAB	GALDERMA
+LAB	GERMED
+LAB	GLAXOSMITHKLINE
+LAB	GLENMARK
+LAB	GREENPHARMA
+LAB	GROSS
+LAB	HEEL	DO	BRASIL	BIOMÉDICA
+LAB	HIPOLABOR
+LAB	HYPERMARCAS
+LAB	JANSSEN-CILAG
+LAB	JOHNSON	&	JOHNSON
+LAB	LEGRAND
+LAB	LIBBS
+LAB	LILLY
+LAB	LUNDBECK
+LAB	LUPER
+LAB	MANTECORP
+LAB	MARJAN
+LAB	MEAD-JOHNSON	NUTRITION
+LAB	MEDECELL	BRASIL
+LAB	MEDLEY
+LAB	MERCK
+LAB	MERCK,	SHARP	&	DOHME
+LAB	MILLET	ROUX
+LAB	NEOQUÍMICA
+LAB	NIKKHO
+LAB	NOVA	QUÍMICA
+LAB	NOVARTIS
+LAB	NOVO	NORDISK
+LAB	NYCOMED
+LAB	PFIZER
+LAB	PHARLAB
+LAB	PRATI,	DONADUZZI
+LAB	PROCTER	&	GAMBLE
+LAB	RANBAXY
+LAB	ROCHE
+LAB	ROYTON
+LAB	SANDOZ
+LAB	SANOFI-AVENTIS
+LAB	SANOFI	PASTEUR
+LAB	SCHERING-PLOUGH
+LAB	SERVIER
+LAB	SIGMA	PHARMA
+LAB	SOLVAY
+LAB	STIEFEL
+LAB	TAKEDA
+LAB	TEUTO
+LAB	THERASKIN
+LAB	TORRENT
+LAB	TRB	PHARMA
+LAB	UCI	FARMA
+LAB	UNIÃO	QUÍMICA
+LAB	VALEANT
+LAB	WYETH	PHARMA
+LAB	ZAMBON
+LAB	ZODIAC
+LAB	ZURITA
+LAB	ZYDUS
+LAB	Abbot
+LAB	Abl
+LAB	Accord
+LAB	Aché
+LAB	Alcon
+LAB	Allergan
+LAB	Apsen
+LAB	Ariston
+LAB	Arrow
+LAB	Aspen	Pharma
+LAB	Astrazeneca
+LAB	Ativus
+LAB	Aurobindo
+LAB	Bagó
+LAB	Baldacci
+LAB	Bausch	&	Lomb
+LAB	Baxter
+LAB	Bayer
+LAB	B.	Braun
+LAB	Beker
+LAB	Bergamo
+LAB	BioLAB	Sanus
+LAB	Biosintética
+LAB	Blausiegel
+LAB	Boehringer	Ingelheim
+LAB	Brainfarma
+LAB	Brasterápica
+LAB	Bristol-Myers-Squibb
+LAB	Bunker
+LAB	Catarinense
+LAB	Cazi
+LAB	Chiesi
+LAB	Cifarma
+LAB	Cimed
+LAB	Claris
+LAB	Cristália
+LAB	Csl	Behring
+LAB	Daiichi	Sankyo
+LAB	Darrow
+LAB	Daudt
+LAB	Ducto
+LAB	Eli	Lilly
+LAB	Ems
+LAB	Eurofarma
+LAB	Farmoquímica
+LAB	Ferring
+LAB	Fresenius	Kabi
+LAB	Fresenius
+LAB	Furp
+LAB	Galderma
+LAB	Germed
+LAB	Glaxosmithkline
+LAB	Glenmark
+LAB	Greenpharma
+LAB	Gross
+LAB	Heel	Do	Brasil	Biomédica
+LAB	HipoLABor
+LAB	Hypermarcas
+LAB	Janssen-Cilag
+LAB	Johnson	&	Johnson
+LAB	Legrand
+LAB	Libbs
+LAB	Lilly
+LAB	Lundbeck
+LAB	Luper
+LAB	Mantecorp
+LAB	Marjan
+LAB	Mead-Johnson	Nutrition
+LAB	Medecell	Brasil
+LAB	Medley
+LAB	Merck
+LAB	Merck,	Sharp	&	Dohme
+LAB	Millet	Roux
+LAB	Neoquímica
+LAB	Nikkho
+LAB	Nova	Química
+LAB	Novartis
+LAB	Novo	Nordisk
+LAB	Nycomed
+LAB	Pfizer
+LAB	PharLAB
+LAB	Prati,	Donaduzzi
+LAB	Procter	&	Gamble
+LAB	Ranbaxy
+LAB	Roche
+LAB	Royton
+LAB	Sandoz
+LAB	Sanofi-Aventis
+LAB	Sanofi	Pasteur
+LAB	Schering-Plough
+LAB	Servier
+LAB	Sigma	Pharma
+LAB	Solvay
+LAB	Stiefel
+LAB	Takeda
+LAB	Teuto
+LAB	Theraskin
+LAB	Torrent
+LAB	Trb	Pharma
+LAB	Uci	Farma
+LAB	União	Química
+LAB	Valeant
+LAB	Wyeth	Pharma
+LAB	Zambon
+LAB	Zodiac
+LAB	Zurita
+LAB	Zydus

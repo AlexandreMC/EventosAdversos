@@ -1,0 +1,36 @@
+## tagger training invoked at Fri Apr 20 02:58:02 BRT 2018 with arguments:
+                   model = pt-model/pt-pos-tagger.dat
+                    arch = left3words,bidirectional,generic,words(-1,1), unicodeshapes(-1,1), suffix(4), prefix(4)
+            wordFunction = 
+               trainFile = format=TSV,wordColumn=1,tagColumn=4,pt-model/pt-br-universal-train.conll
+		#testFile = format=TSV,wordColumn=1,tagColumn=4,pt-model/pt-br-universal-test.conll
+         closedClassTags = 
+ closedClassTagThreshold = 40
+ curWordMinFeatureThresh = 2
+                   debug = false
+             debugPrefix = 
+            tagSeparator = /
+                encoding = UTF-8
+              iterations = 100
+                    lang = 
+    learnClosedClassTags = false
+        minFeatureThresh = 5
+           openClassTags = 
+rareWordMinFeatureThresh = 10
+          rareWordThresh = 5
+                  search = qn
+                    sgml = false
+            sigmaSquared = 0.5
+                   regL1 = 1.0
+               tagInside = 
+                tokenize = true
+        tokenizerFactory = 
+        tokenizerOptions = 
+                 verbose = false
+          verboseResults = true
+    veryCommonWordThresh = 250
+                xmlInput = 
+              outputFile = 
+            outputFormat = slashTags
+     outputFormatOptions = 
+                nthreads = 1

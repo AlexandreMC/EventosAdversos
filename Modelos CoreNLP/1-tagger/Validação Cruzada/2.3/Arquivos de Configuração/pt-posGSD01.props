@@ -1,0 +1,36 @@
+## tagger training invoked at Fri Oct 05 18:42:46 BRT 2018 with arguments:
+                   model = pt-model/1-tagger/Validação Cruzada/2.3/pos-taggerGSDvalida1.dat
+                    arch = left3words,bidirectional,generic,words(-1,1), unicodeshapes(-1,1), suffix(4), prefix(4)
+            wordFunction = 
+               #trainFile = format=TSV,wordColumn=1,tagColumn=4,pt-model/3-dados/UD 2.3/pt_gsd-ud-valida1.conllu
+	       testFile = format=TSV,wordColumn=1,tagColumn=4,pt-model/3-dados/UD 2.3/pt_gsd-ud-unificado.01.conllu
+         closedClassTags = 
+ closedClassTagThreshold = 40
+ curWordMinFeatureThresh = 2
+                   debug = false
+             debugPrefix = 
+            tagSeparator = /
+                encoding = UTF-8
+              iterations = 100
+                    lang = 
+    learnClosedClassTags = false
+        minFeatureThresh = 5
+           openClassTags = 
+rareWordMinFeatureThresh = 10
+          rareWordThresh = 5
+                  search = qn
+                    sgml = false
+            sigmaSquared = 0.5
+                   regL1 = 1.0
+               tagInside = 
+                tokenize = true
+        tokenizerFactory = 
+        tokenizerOptions = 
+                 verbose = false
+          verboseResults = true
+    veryCommonWordThresh = 250
+                xmlInput = 
+              outputFile = 
+            outputFormat = slashTags
+     outputFormatOptions = 
+                nthreads = 4
