@@ -18,7 +18,7 @@
 
 ## Para citar:
 
-    @inproceedings{LaCAfe-2018,
+    @inproceedings{
         title={Uma an{\'a}lise sobre as bulas de medicamentos no Brasil},
         author={Cunha, Alexandre Martins and Nascimento, Gabriel and Guedes, Gustavo Paiva},
         booktitle={Anais do XII Brazilian e-Science Workshop},
